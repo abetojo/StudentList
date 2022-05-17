@@ -7,6 +7,15 @@ package studentlist;
 public class Student {
     private int studentNum;
     private String studentNames;
+    private String address;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
 
     public Student(int studentNum, String studentNames) {
         this.studentNum = studentNum;
