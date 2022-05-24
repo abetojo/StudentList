@@ -6,6 +6,7 @@ package studentlist;
  */
 
 //added comments for pull operation
+//added comments for fetch and merge operation
 public class Student {
     private int studentNum;
     private String studentNames;
