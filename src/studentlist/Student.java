@@ -4,6 +4,8 @@ package studentlist;
  * SYST17796 Fundamentals of Software Design and Development
  * @author Joshua Abeto
  */
+
+//added comments for pull operation
 public class Student {
     private int studentNum;
     private String studentNames;
